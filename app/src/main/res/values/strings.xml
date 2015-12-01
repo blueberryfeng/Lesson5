@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lesson5</string>
+    <string name="cup">cup(s)</string>
+    <string name="tablespoon"> tablespoon(s)\t or</string>
+    <string name="teaspoon"> teaspoon(s)</string>
+
+</resources>
